@@ -8,7 +8,7 @@ The ultimate goal of Brain Food is to create a network of users through which he
 
 ### Currently done:  
 - Most of what we would like the webpage to look like  
-![](https://raw.githubusercontent.com/brain-food/brain-food.github.io/master/doc/01Landing.png)
+![](https://github.com/brain-food/brain-food.github.io/blob/master/doc/01Landing.png)
 ![](https://raw.githubusercontent.com/brain-food/brain-food.github.io/master/doc/02About.png)
 ![](https://raw.githubusercontent.com/brain-food/brain-food.github.io/master/doc/03FoodList.png)
 ![](https://raw.githubusercontent.com/brain-food/brain-food.github.io/master/doc/04FoodItem.png)
