@@ -13,6 +13,7 @@ The ultimate goal of Brain Food is to create a network of users through which he
 ![](https://raw.githubusercontent.com/brain-food/brain-food.github.io/master/doc/03FoodList.png)
 ![](https://raw.githubusercontent.com/brain-food/brain-food.github.io/master/doc/04FoodItem.png)
 ![](https://raw.githubusercontent.com/brain-food/brain-food.github.io/master/doc/05FoodHunt.png)
+![](https://raw.githubusercontent.com/brain-food/brain-food.github.io/master/doc/06AddFood.png)
 
 ### Work in progress:  
 - Backend functionality  
