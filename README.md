@@ -1,8 +1,4 @@
-Test to see if readme works like github page  
-  
-  
-  
-# Goals  
+ # Goals  
 The ultimate goal of Brain Food is to create a network of users through which healthy, cost-effective recipes can be shared through a simple, fun webpage.
 
 
